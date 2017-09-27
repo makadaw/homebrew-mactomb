@@ -1,0 +1,3 @@
+[submodule "mactomb"]
+	path = mactomb
+	url = https://github.com/davinerd/MacTomb
