@@ -3,6 +3,7 @@ class Mactomb < Formula
   homepage "https://www.dyne.org/software/mactomb/"
   url "https://github.com/makadaw/MacTomb/archive/master.zip"
   sha256 "c2c008c44ff567e6af8df4cc5a74957060ce40de0d423d1d41d6f8ddecaa4428"
+  version "1.3.0"
 
   # depends_on "cmake" => :build
 
